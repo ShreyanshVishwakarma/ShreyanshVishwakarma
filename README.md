@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShreyanshVishwakarma
-- 👀 I’m interested in ...C++, java, Backend devalopment and more🎯
+- 👀 I’m interested in ...C++, java, Backend development and more🎯
 - 🌱 I’m currently learning ...C++👌
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...telegram me @Shreyanshvishwakarma
