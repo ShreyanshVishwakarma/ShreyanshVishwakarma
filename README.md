@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShreyanshVishwakarma
-- 👀 I’m interested in : C++, Backend development and more🎯
+- 👀 I’m interested in : C++, rust🦀, Backend development and more🎯
 - 🌱 I’m currently learning : backend develepment using nodejs👌
 - 💞️ I’m looking to collaborate on ambitious projects to actually build something usefull and also provide a great learning experience.
 - 📫 How to reach me : email: shreyanshvish004@gmail.com
