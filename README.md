@@ -14,7 +14,7 @@
 
 ## 🎓 Education
 
-**Indian Institute of Information Technology, Surat** `2022 - 2026`  
+**Indian Institute of Information Technology, Surat** `2023 - 2027`  
 Bachelor of Technology in Computer Science and Engineering (3rd Year)
 
 ---
@@ -99,15 +99,6 @@ Building real-time web applications with modern tech stack including Next.js, Ty
   <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br><strong>Vercel</strong></td>
   <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br><strong>AWS</strong></td>
   <td align="center"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br><strong>VS Code</strong></td>
-</tr>
-</table>
-
-### 🤖 AI-Assisted Programming
-<table>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white" /><br><strong>Claude Opus 4.6</strong></td>
-  <td align="center"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" /><br><strong>Gemini 3 Pro</strong></td>
-  <td align="center"><img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" /><br><strong>GPT 5.2 Codex</strong></td>
 </tr>
 </table>
 
