@@ -160,7 +160,7 @@ Building real-time web applications with modern tech stack including Next.js, Ty
 - Designed for **GDG IIIT Surat** event
 - Created all **CTF challenges** and infrastructure
 
-[📂 Code](https://github.com/ShreyanshVishwakarma/ctf-platform)
+[🔗 Live Demo](https://ctf-seven-kappa.vercel.app/) | [📂 Code](https://github.com/ShreyanshVishwakarma/ctf)
 
 </td>
 <td width="50%">
