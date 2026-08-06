@@ -1,17 +1,17 @@
-Hi, I’m Shreyansh Vishwakarma. I build full-stack and blockchain products with a focus on real-time systems, developer-grade architecture, and security-first engineering.
+Hi, I’m Shreyansh Vishwakarma. I build full-stack products with a focus on real-time systems, developer-grade architecture, and security-first engineering.
 
 I’m a Computer Science undergraduate at IIIT Surat (2023–2027, CGPA: 8.4), GDG Blockchain Lead, UDBHAV National Hackathon Grand Finalist, and a freelance developer shipping production apps with Next.js, TypeScript, and modern cloud tooling.
 
 Learn more at [shreyansh.is-a.dev](https://shreyansh.is-a.dev/)
 
 ## Selected Repositories
-
-- [LandTrust](https://github.com/ShreyanshVishwakarma/LandTrust) — Blockchain land registry built with Solidity and Ethereum.
-- [RustyML](https://github.com/ShreyanshVishwakarma/RustyML) — Machine learning algorithms implemented from scratch in Rust.
+- [Sql buddy](https://github.com/ShreyanshVishwakarma/sqlbuddy) — Practice SQL with a real database, right in the browser.
 - [JustChatting](https://github.com/ShreyanshVishwakarma/justchatting) — Real-time chat app with E2EE, offline-first design, and Clerk auth.
 - [CTF Platform](https://github.com/ShreyanshVishwakarma/ctf) — Jeopardy-style cybersecurity platform with live leaderboard and automated flag validation.
 - [ScriptSorcery Reimagine](https://github.com/ShreyanshVishwakarma/ScriptSorceryReimagineRound1) — Award-winning frontend experience with advanced UI animation.
 - [Book Store API](https://github.com/ShreyanshVishwakarma/Book-store-API) — REST API backend with JWT-based authentication.
+- [LandTrust](https://github.com/ShreyanshVishwakarma/LandTrust) — Blockchain land registry built with Solidity and Ethereum.
+- [RustyML](https://github.com/ShreyanshVishwakarma/RustyML) — Machine learning algorithms implemented from scratch in Rust.
 
 ## Experience Snapshot
 
