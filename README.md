@@ -3,6 +3,7 @@ Hi, I’m Shreyansh Vishwakarma. I build full-stack products with a focus on rea
 I’m a Computer Science undergraduate at IIIT Surat (2023–2027, CGPA: 8.4), GDG Blockchain Lead, UDBHAV National Hackathon Grand Finalist, and a freelance developer shipping production apps with Next.js, TypeScript, and modern cloud tooling.
 
 Learn more at [shreyansh.is-a.dev](https://shreyansh.is-a.dev/)
+or if you like terminals : ```npx sheryansh``` or ```bunx shreyansh```
 
 ## Selected Repositories
 - [Sql buddy](https://github.com/ShreyanshVishwakarma/sqlbuddy) — Practice SQL with a real database, right in the browser.
