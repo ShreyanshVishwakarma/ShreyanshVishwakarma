@@ -33,8 +33,8 @@ TypeScript, JavaScript, Python, Rust, Solidity, C, SQL, Next.js, React, Node.js,
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/shreyansh-vishwakarma-63a853296/)
+- [LinkedIn](https://www.linkedin.com/in/shreyanshvishwakarma/)
 - [GitHub](https://github.com/ShreyanshVishwakarma)
 - [Portfolio](https://shreyansh.is-a.dev/)
 - [LeetCode](https://leetcode.com/u/shreyansh0x0/)
-- [Email](mailto:shreyanshvish004@gmail.com)
+- [Email](mailto:shreyanshvishwak@gmail.com)
